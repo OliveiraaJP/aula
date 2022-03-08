@@ -1,0 +1,22 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 4rem;
+    font-size: 3rem;
+    background-color: darkslategrey;
+    box-shadow: -1px 13px 10px 0px rgba(0,0,0,0.75);
+    color: white;
+}
+
+main{
+    margin-top: 30px;
+    display: flex;
+}
+
+.container{
+    width: 350px;
+    height: 300px;
+    background-color: rgb(230, 238, 163);
+    margin: auto;
+}
